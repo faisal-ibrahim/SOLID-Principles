@@ -1,4 +1,4 @@
-# SOLID-Principles
+# SOLID Principles
 
 ##### SOLID stands for:
 S: Single-responsibility principle
